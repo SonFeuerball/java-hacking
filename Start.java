@@ -15,6 +15,8 @@ public class Start {
 
         frame.pack();
         frame.setVisible(true);
+
+        System.out.println("hello");
     }
 
 }
